@@ -1,7 +1,7 @@
 window.alert("welkom bij de lokale pizzaria wat wilt u?");//zet een window neer van hey welkom bij de pizzaria
 var kleinepizza = prompt("hoeveel kleine pizza's neem je 2,-",); //deze en de 2 eronder vragen hoeveel pizzas je wilt met de prijs erbij
 var normalepizza = prompt("hoeveel normale pizza's 10,-",);
-var grotepizza = prompt("hoeveel grote pizza's neemt u 200,-");
+var grotepizza = prompt("hoeveel grote pizza's neemt u 20,-");
 document.write('kleinepizza : ' + kleinepizza);// zet neer 
 document.write('<br/>')
 document.write('normalepizza : ' + normalepizza);
